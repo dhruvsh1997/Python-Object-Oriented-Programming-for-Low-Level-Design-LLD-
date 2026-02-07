@@ -232,7 +232,7 @@ classDiagram
 
 The codebase includes comprehensive testing examples using pytest:
 
-- **Unit Testing**: Calculator class with test methods
+- **Unit Testing**: Calculator classes with test methods
 - **Fixture Usage**: Logger class testing
 - **Test Organization**: Proper test class structure
 
