@@ -279,7 +279,7 @@ After studying this codebase, you will understand:
 
 ```mermaid
 flowchart TD
-    A[OOP Foundation] --> B[Encapsulation]
+    A[OOP Foundations] --> B[Encapsulation]
     A --> C[Abstraction]
     A --> D[Inheritance]
     A --> E[Polymorphism]
